@@ -165,7 +165,7 @@ input:checked + .slider:before {
 	font-weight:bold;
 	position:absolute;
 	font-size:15px;
-	width:40%;
+	width:38%;
 	background-color:white;
 	z-index:999;
 	left:60%;
@@ -175,10 +175,10 @@ input:checked + .slider:before {
 	font-weight:bold;
 	position:absolute;
 	font-size:15px;
-	width:45%;
+	width:43%;
 	background-color:white;
 	z-index:999;
-	left:54%;
+	left:60%;
 	top:6%;
 }
 .contact-form-inner{

@@ -1,11 +1,12 @@
 
+	
 	var level = 3;
 	var sessionFlag = false;
 	var switchFlag = true;
 	var pharmacy = null;
 	var fCount = 0; // 사용자 데이터 받을 것 
-	var userId = sessionStorage.getItem("userId");
 	var favorate = null;
+	var userId = sessionStorage.getItem("userId");
 	var userAddr = sessionStorage.getItem("userAddr");
 	
 	$(function(){
